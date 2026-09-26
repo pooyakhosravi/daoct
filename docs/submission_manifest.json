@@ -1,0 +1,102 @@
+{
+  "archive": "daoct_submission_v14_optional_layer_guard.zip",
+  "archive_sha256": "331efc00b3f9e499cd144589fcd1d6b203b68f2b6a6db9d47b64425a6dd81583",
+  "files": {
+    "daoct/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/da/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/da/fda.py": {
+      "bytes": 1434,
+      "sha256": "63494a7149d3cd16ab769999db8d6af372f5e40691b9ce880725391761089daf"
+    },
+    "daoct/da/mean_teacher.py": {
+      "bytes": 5426,
+      "sha256": "4984bbd6593e6faa6816f838db20edb7e822cedb5ed928d20374d943c8c73f1f"
+    },
+    "daoct/da/surface_refine.py": {
+      "bytes": 6260,
+      "sha256": "76d10c3e847bd2e2227b532e9ee616f4ed015848e48387fffbc8592ae8abc420"
+    },
+    "daoct/data/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/data/dataset.py": {
+      "bytes": 8525,
+      "sha256": "bb6700f9f9907d8a663d9b7617d15acc6ca9e4af138dea41bff99805426b0778"
+    },
+    "daoct/data/transforms.py": {
+      "bytes": 28813,
+      "sha256": "46e6f1f7df31fd8e78be56f1c222a2e86cf9dcfa643d5dc60b2f10476427a328"
+    },
+    "daoct/engine/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/engine/infer.py": {
+      "bytes": 10365,
+      "sha256": "8a5dfa850858919f870d9ce42d8b2687d4e84f384a89af25806033c8e4d68d71"
+    },
+    "daoct/engine/train.py": {
+      "bytes": 22044,
+      "sha256": "5c4f70d244a6dbbc40d3e5e4ec608631126e2e6ea024c9c712bdd3e1e5ff84c8"
+    },
+    "daoct/eval/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/eval/metrics.py": {
+      "bytes": 1549,
+      "sha256": "45565f525ef1b9671e8034e92785d8f16cc2f5675b09e80633c3602ecc4852a9"
+    },
+    "daoct/losses/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/losses/seg_losses.py": {
+      "bytes": 5741,
+      "sha256": "d51e2fa3ccd345756796d8c7ab25f5ccd9f670828db492089a88f0266c4426e4"
+    },
+    "daoct/models/__init__.py": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "daoct/models/build.py": {
+      "bytes": 2957,
+      "sha256": "b0880a2709652bcb9598341fbf4becfea3eac5fc19e926f4db9930f64e604fc8"
+    },
+    "daoct/models/load.py": {
+      "bytes": 1750,
+      "sha256": "5d7445c56eb67766114431f76e2c4d641cb616e0042fafa5f26c6c9d364d6e39"
+    },
+    "daoct/models/multihead.py": {
+      "bytes": 9236,
+      "sha256": "3f01420216e653655fbc2143131a0f13429c9ae8b4b1d7a15c9fcd582cf7e056"
+    },
+    "entrypoint.sh": {
+      "bytes": 1545,
+      "sha256": "a57dd17416228994af3c2e574f854a4365c90a31c9f387ec75fdf0e1f17b54a4"
+    },
+    "infer_test_monai.py": {
+      "bytes": 1729,
+      "sha256": "e4453ba42f6b2631174d3d8bb5c868efbf0544670f06ca51d24f0a789c988107"
+    },
+    "main.py": {
+      "bytes": 2024,
+      "sha256": "42cdd6a8ebf6b39b750c61dcad39b9b44b5ce436eed5cba278e964c9503f16c2"
+    },
+    "preresize.py": {
+      "bytes": 2584,
+      "sha256": "d96c8135f6a5d46f5fea2b3dcd69c023983cef604b7ce41b96348a44899c8e3d"
+    },
+    "train_test_monai_semi.py": {
+      "bytes": 11628,
+      "sha256": "616915eb696c397f444b9004715794daf17bc9b4dcb16fa561477548d1df421b"
+    }
+  }
+}

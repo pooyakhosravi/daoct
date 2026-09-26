@@ -1,0 +1,6 @@
+# Preserve the exact submitted source bytes for the provenance check.
+submission/** -text
+*.md text eol=lf
+*.json text eol=lf
+tools/*.py text eol=lf
+*.yml text eol=lf
