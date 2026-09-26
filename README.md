@@ -53,6 +53,7 @@ See [method details](docs/METHOD.md) and [release checklist](docs/RELEASE.md).
 
 ## Repository contents
 
+- `AGENTS.md`: onboarding, code map, data rules and contributor guidance.
 - `submission/`: the 24 original challenge files, preserved byte for byte.
 - `docs/`: method, provenance, environment and release notes.
 - `tools/verify_submission.py`: dependency-free integrity and syntax checks.
